@@ -1,4 +1,8 @@
-# Word Master
+# Word Master, naïvely changed for Faroese
+
+I scraped all the [2015 30k web corpus for Faroese](https://wortschatz.uni-leipzig.de/en/download/Faroese) to find all 5-letter words that are all lowercase, only contain the letters `aábdðefghiíjklmnoóprstuúvyýæø`, and appear at least 5 times in the corpus.
+
+* * * * * *
 
 🔗 https://octokatherine.github.io/word-master/
 
